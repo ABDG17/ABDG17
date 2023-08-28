@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2986cc&center=false&vCenter=false&width=1000&lines=Olá%2C+eu+sou+o+João+Pedro+; Tenho+18+anos;Eu+sou'm+Estudante+de+programação;)](https://github.com/ABDG17)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2986cc&center=false&vCenter=false&width=1000&lines=Olá%2C+eu+sou+o+João+Pedro; Tenho+18+anos;Eu+sou'm+Estudante+de+programação;)](https://github.com/ABDG17)
 
 
 ![ABDG17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDG17&show_icons=true&theme=algolia)
