@@ -8,7 +8,7 @@
 </div>
 
 - 💪 Apenas estudando linguagens de programação 
-- 👀 Procurando Estágios 
+- 🤖 .NEt, C#
 - 💍 Ele/Dele 
 - ⚡ Muito fera em Microcontrolador Arduino 
 - 🦖 Fato curioso: Programadores bem remunerados não seguem a linha de pensamento de Dennis Nedry em Jurassic Park ...
