@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2986cc&center=false&vCenter=false&width=1000&lines=Olá%2C+eu+sou+o+João+;Tenho+18+anos+;Eu+sou+Estudante+de+programação;)](https://github.com/ABDG17)
 
-
-![ABDG17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDG17&show_icons=true&theme=algolia)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDG17&layout=compact&theme=algolia)](https://github.com/ABDG17/github-readme-stats)
-<div style="display: inline_block"><br>
-<img align="right" height="180em" alt="jao-pic" src="https://i.picasion.com/pic92/4ebc929f09bd1e96fa34ab09bdd9d390.gif">
-</div>
+ 
+ ![ABDG17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABDG17&show_icons=true&theme=algolia)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDG17&layout=compact&theme=algolia)](https://github.com/ABDG17/github-readme-stats)
+ <div style="display: inline_block"><br>
+ <img align="right" height="180em" alt="jao-pic" src="https://i.picasion.com/pic92/4ebc929f09bd1e96fa34ab09bdd9d390.gif">
+ </div>
 
 - 💪 Estudando linguagens de programação 
 - 🤖 .NEt, C#, JS, C++
