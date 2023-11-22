@@ -7,9 +7,8 @@
 <img align="right" height="180em" alt="jao-pic" src="https://i.picasion.com/pic92/4ebc929f09bd1e96fa34ab09bdd9d390.gif">
 </div>
 
-- 💪 Apenas estudando linguagens de programação 
-- 🤖 .NEt, C#
-- 💍 Ele/Dele 
+- 💪 Estudando linguagens de programação 
+- 🤖 .NEt, C#, JS, C++
 - ⚡ Muito fera em Microcontrolador Arduino 
 - 🦖 Fato curioso: Programadores bem remunerados não seguem a linha de pensamento de Dennis Nedry em Jurassic Park ...
 
