@@ -21,7 +21,9 @@
 <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div align="center">
-
+<p>
+ ㅤ
+</p>
 
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=ABDG17&color=006bed" alt="Imagem">
